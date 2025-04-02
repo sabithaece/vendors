@@ -1,0 +1,14 @@
+{
+  "businessEntities": [
+    "Private Limited Company",
+    "Limited Liability Partnership",
+    "One Person Company",
+    "Sole Proprietorship",
+    "Partnership"
+  ],
+  "states": {
+    "Tamil Nadu": ["Chennai", "Coimbatore"],
+    "Kerala": ["Thiruvananthapuram", "Kochi"]
+  },
+  "categories": ["Customer", "Business"]
+}

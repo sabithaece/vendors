@@ -1,0 +1,43 @@
+{
+  "title": "Register at Daily Drop",
+  "fields": [
+    {
+      "id": "name",
+      "icon": "account-outline",
+      "placeholder": "Name",
+      "keyboardType": "default"
+    },
+    {
+      "id": "username",
+      "icon": "account-circle-outline",
+      "placeholder": "Username",
+      "keyboardType": "default"
+    },
+    {
+      "id": "email",
+      "icon": "email-outline",
+      "placeholder": "Email",
+      "keyboardType": "email-address"
+    },
+    {
+      "id": "mobile",
+      "icon": "cellphone",
+      "placeholder": "Mobile Number",
+      "keyboardType": "phone-pad"
+    },
+    {
+      "id": "password",
+      "icon": "lock-outline",
+      "placeholder": "Create Password",
+      "secureTextEntry": true
+    },
+    {
+      "id": "confirmPassword",
+      "icon": "lock-outline",
+      "placeholder": "Confirm Password",
+      "secureTextEntry": true
+    }
+  ],
+  "agreeText": "I agree with Terms and Policies of Cellula.",
+  "registerButton": "Register"
+}

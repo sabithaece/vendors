@@ -1,0 +1,33 @@
+{
+  "title": "Daily Drop",
+  "buttons": [
+    {
+      "id": 1,
+      "text": "Sign Up Using Email",
+      "type": "email",
+      "navigateTo": "Register",
+      "backgroundColor": "#248B6D",
+      "textColor": "#FFFFFF"
+    },
+    {
+      "id": 2,
+      "text": "Login Using Google",
+      "type": "google",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/640px-Google_%22G%22_logo.svg.png",
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#DDD",
+      "textColor": "#333"
+    },
+    {
+      "id": 3,
+      "text": "Login Using Facebook",
+      "type": "facebook",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png",
+      "backgroundColor": "#FFFFFF",
+      "borderColor": "#DDD",
+      "textColor": "#333"
+    }
+  ],
+  "orText": "OR",
+  "loginText": "Click Here to Login"
+}

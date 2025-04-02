@@ -1,0 +1,10 @@
+{
+  "title": "Daily Drop",
+  "subTitle": "Enter OTP",
+  "infoText": "Enter Code sent to anki****.com",
+  "info": "Didn't receive any code?",
+  "resendText": "Re-send Code",
+  "submitButton": "Submit",
+  "loginText": "Click Here to",
+  "loginLink": "Login"
+}

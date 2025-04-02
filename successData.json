@@ -1,0 +1,10 @@
+{
+  "title": "Daily Drop",
+  "successMessage1": "Thank You For",
+  "successMessage2": "Becoming a Daily Drop Vendor",
+  "subtitle": "We will shortly notify you in your mail about the approval of your profile.",
+  "buttonText": "Check Mail",
+  "logoColor": "#ff7f50",
+  "buttonColor": "#ff7f50",
+  "tickImage": "../assets/tick.jpg"
+}
