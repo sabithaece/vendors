@@ -10,6 +10,7 @@ import {
 import ModalDropdown from "react-native-modal-dropdown";
 import colors from "./component/colors";
 
+
 const AddProduct = () => {
   const [category, setCategory] = useState("");
   const [brand, setBrand] = useState("");
